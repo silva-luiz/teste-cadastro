@@ -85,7 +85,24 @@ input:valid {
     justify-content: space-around;
 }
 
-.logo{
-  height: 50px;  
-  margin-top: 25px;
+#github{
+	font-size: 32px;
+	margin-top: 25%;
+	color:#fff;
 }
+
+#github:hover{	
+	color:#ffbb33;
+	transition: .5s;
+}
+
+#linkedin{
+	font-size: 32px;
+	margin-top: 25%;
+	color:#fff;
+}
+#linkedin:hover{
+	color:#ffbb33;
+	transition: .5s;
+}
+

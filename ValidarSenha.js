@@ -1,6 +1,5 @@
 const confirmPassword = document.getElementById('confirmPassword');
 const userNameError = document.getElementById('username-error');
-console.log(userNameError);
 const password = document.getElementById('password');
 password.addEventListener('input', validarSenha);
 confirmPassword.addEventListener('input', validarSenha);
